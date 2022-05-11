@@ -2,7 +2,7 @@
 using BinarySearchTree;
 
 Console.WriteLine("Welcome to Binary Search Tree(BST)");
-BST<int> bs1 = new(56);
-bs1.Add(30);
-bs1.Add(70);
-bs1.Display();
+BST<int> Tree = new(56);
+Tree.Add(30);
+Tree.Add(70);
+Tree.Display();
