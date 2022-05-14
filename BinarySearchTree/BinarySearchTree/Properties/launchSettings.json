@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BinarySearchTree": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
