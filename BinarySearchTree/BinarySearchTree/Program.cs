@@ -17,3 +17,5 @@ Tree.Add(63);
 Tree.Add(67);
 Tree.Display(Tree);
 Tree.GetSize(Tree);
+bool result = Tree.IfExists(22, Tree);
+Console.WriteLine(result);
